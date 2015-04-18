@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+    <type>
+        <none>
+            <message>I don't know what you mean?</message>
+        </none>
+        <thoughts>
+            <message id="yes" voicetrack="Level_1_Riley_52">Yes.</message>
+            <message id="no" voicetrack="Level_1_Riley_51">No.</message>
+            <message id="dont_bother_albert" voicetrack="Level_1_Riley_76">I didn't want to bother him.</message>
+            <message id="hey_albert" voicetrack="Level_1_Riley_75">Hey Albert.</message>
+            <message id="compartment_locked" voicetrack="Level_1_Riley_158">It’s a compartment that only Albert can open.
+            </message>
+        </thoughts>
+        <props>
+            <object name="front_driver_seat">
+                <interact>
+                    <examine>
+                        <message id="1" voicetrack="Level_1_Riley_97">A smooth black leather interior adds extra comfort and a touch of class.
+                        </message>
+                        <message id="2" voicetrack="Level_1_Riley_95">This car makes the most tense journeys so relaxing.
+                        </message>
+                    </examine>
+                    <chat>
+                        <message id="1" voicetrack="riley_no.mp3">No.</message>
+                    </chat>
+                    <action></action>
+                </interact>
+            </object>
+            <object name="back_driver_seat">
+                <interact>
+                    <examine>
+                        <message id="1" voicetrack="Level_1_Riley_97">A smooth black leather interior adds extra comfort and a touch of class.
+                        </message>
+                        <message id="2" voicetrack="Level_1_Riley_95">This car makes the most tense journeys so relaxing.
+                        </message>
+                    </examine>
+                    <chat>
+                        <message id="1" voicetrack="riley_no.mp3">No.</message>
+                    </chat>
+                    <action></action>
+                </interact>
+            </object>
+            <object name="back_passenger_seat">
+                <interact>
+                    <examine>
+                        <message id="1" voicetrack="Level_1_Riley_97">A smooth black leather interior adds extra comfort and a touch of class.
+                        </message>
+                        <message id="2" voicetrack="Level_1_Riley_95">This car makes the most tense journeys so relaxing.
+                        </message>
+                    </examine>
+                    <chat>
+                        <message id="1" voicetrack="riley_no.mp3">No.</message>
+                    </chat>
+                    <action></action>
+                </interact>
+            </object>
+            <object name="car_window">
+                <interact>
+                    <examine>
+                        <message id="1" voicetrack="Level_1_Riley_96">The slums.</message>
+                    </examine>
+                </interact>
+            </object>
+            <object name="middle_compartment">
+                <interact>
+                    <examine>
+                        <message id="1" voicetrack="Level_1_Riley_158a">It’s a compartment.</message>
+                    </examine>
+                </interact>
+            </object>
+        </props>
+        <items>
+            <object name="lock_pick">
+                <interact>
+                    <examine>
+                        <message id="1" voicetrack="Level_1_Riley_152">It's a lockpick.</message>
+                    </examine>
+                </interact>
+            </object>
+            <object name="digi_cuffs">
+                <interact>
+                    <examine>
+                        <message id="1" voicetrack="Level_1_Riley_155">Digital handcuffs.</message>
+                        <message id="2" voicetrack="Level_1_Riley_156">I need to fix these on Dawson to get my mission points.
+                        </message>
+                    </examine>
+                </interact>
+            </object>
+        </items>
+        <characters>
+            <object name="albert_driving">
+                <interact>
+                    <examine>
+                        <message id="1" voicetrack="Level_1_Riley_98">My Uncle's chauffeur Albert Green.</message>
+                        <message id="2" voicetrack="Level_1_Riley_99">Miserable git.</message>
+                    </examine>
+                    <chat>
+                        <message id="1" voicetrack="Level_1_Riley_72">Where are we meeting Al?</message>
+                        <message id="2" voicetrack="">...</message>
+                        <message id="3" voicetrack="Level_1_Riley_94">Albert being his typical stubborn self.</message>
+                    </chat>
+                </interact>
+            </object>
+        </characters>
+    </type>
+</data>

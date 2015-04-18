@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+    <conversation id="dawson_pablo" from="dawson" to="pablo">
+        <message id="1" voicetrack="DAWSON_PABLO_1_D_1" speaker="unknown">
+            "Shit, they're on to me."
+        </message>
+        <message id="2" voicetrack="DAWSON_PABLO_1_D_2" speaker="unknown">
+            "Paulo, have you checked the street?"
+        </message>
+        <message id="3" voicetrack="DAWSON_PABLO_1_P_1" speaker="paulo">
+            "Jake's having a look around to make sure the coast is clear"
+        </message>
+        <message id="4" voicetrack="DAWSON_PABLO_1_P_2" speaker="paulo">
+            "Then we can leave."
+        </message>
+        <message id="5" voicetrack="DAWSON_PABLO_1_D_3" speaker="unknown">
+            "There's no way they're taking me to The Camp."
+        </message>
+        <message id="6" voicetrack="DAWSON_PABLO_1_D_4" speaker="unknown">
+            "We can't waste any more time."
+        </message>
+        <message id="7" voicetrack="DAWSON_PABLO_1_D_5" speaker="unknown">
+            "Get Jake and start up the van."
+        </message>
+        <message id="8" voicetrack="DAWSON_PABLO_1_D_6" speaker="unknown">
+            "We're leaving."
+        </message>
+        <message id="9" voicetrack="DAWSON_PABLO_1_P_3" speaker="paulo">
+            "You're the boss."
+        </message>
+    </conversation>
+</data>

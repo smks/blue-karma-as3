@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+    <conversation id="riley_albert_1" from="riley" to="albert">
+        <message id="1" voicetrack="RILEY_ALBERT_1_A_1" speaker="albert">
+            "I’ll be waiting behind the house next to the twelfth alley."
+        </message>
+        <message id="2" voicetrack="RILEY_ALBERT_1_A_2" speaker="albert">
+            "You have one hour."
+        </message>
+        <message id="3" voicetrack="RILEY_ALBERT_1_A_3" speaker="albert">
+            "Any longer, I’m gone."
+        </message>
+        <message id="5" voicetrack="RILEY_ALBERT_1_R_1" speaker="riley">
+            "No Problem."
+        </message>
+        <message id="6" voicetrack="RILEY_ALBERT_1_A_4" speaker="albert">
+            "You might need these."
+        </message>
+    </conversation>
+</data>

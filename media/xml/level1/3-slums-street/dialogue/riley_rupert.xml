@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?><!-- {PLAYER}_{TALKING TO}_{Conversation Id}_{speaker Letter}_{id}-->
+<data>
+    <conversation id="riley_roger_1" from="riley" to="rupert">
+        <message id="1" voicetrack="RILEY_RUPERT_1_RU_1" speaker="rupert">
+            "The privilege of leadership is not to satisfy oneself..."
+        </message>
+        <message id="2" voicetrack="RILEY_RUPERT_1_RU_2" speaker="rupert">
+            "... But to better the lives of many."
+        </message>
+        <message id="3" voicetrack="RILEY_RUPERT_1_R_1" speaker="riley">
+           He's delusional, like most of them around here. 
+        </message>
+    </conversation>
+</data>

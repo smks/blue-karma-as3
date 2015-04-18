@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+    <conversation id="riley_bodyguards_1" from="riley" to="bodyguards">
+        <message id="1" decision="none" voicetrack="RILEY_BODYGUARDS_1_R_1" speaker="riley">
+            "Evening, gentlemen. I'm looking for a man by the name of Alex Richard Dawson."
+        </message>
+        <message id="2" decision="none" voicetrack="RILEY_BODYGUARDS_1_R_2" speaker="riley">
+            "Do you know where I can find him?"
+        </message>
+        <message id="3" decision="none" voicetrack="RILEY_BODYGUARDS_1_P_1" speaker="paulo">
+            "Hmm, Dawson. No, Doesn't sound familiar."
+        </message>
+        <message id="4" decision="none" voicetrack="RILEY_BODYGUARDS_1_R_3" speaker="riley">
+            "I see. So if I check my records of your social and criminal profiles,
+        </message>
+        <message id="5" decision="none" voicetrack="RILEY_BODYGUARDS_1_R_4" speaker="riley">
+            I will not find anything relating you two and this man?"
+        </message>
+        <message id="6" decision="none" voicetrack="RILEY_BODYGUARDS_1_J_1" speaker="jake">
+            "Ahh, Alex Dawson? Yeah, we know him."
+        </message>
+        <message id="7" decision="none" voicetrack="RILEY_BODYGUARDS_1_R_5" speaker="riley">
+            "Well, you are sitting on his doorstep."
+        </message>
+        <message id="8" decision="none" voicetrack="RILEY_BODYGUARDS_1_J_2" speaker="jake">
+            "We haven’t seen him in a while actually."
+        </message>
+        <message id="9" decision="none" voicetrack="RILEY_BODYGUARDS_1_J_3" speaker="jake">
+            "What did you need him for?"
+        </message>
+        <message id="10" decision="none" voicetrack="RILEY_BODYGUARDS_1_J_4" speaker="jake">
+            "You could leave a message with us. We’ll make sure he gets it."
+        </message>
+        <message id="11" decision="none" voicetrack="RILEY_BODYGUARDS_1_R_6" speaker="riley">
+            "So, you won’t mind if I take a look around inside then?"
+        </message>
+        <message id="12" decision="none" voicetrack="RILEY_BODYGUARDS_1_P_2" speaker="paulo">
+            "We did say we would keep an eye on things, so may not be a great idea."
+        </message>
+        <message id="13" decision="none" voicetrack="RILEY_BODYGUARDS_1_J_5" speaker="jake">
+            "Come on now, Paulo."
+        </message>
+        <message id="14" decision="none" voicetrack="RILEY_BODYGUARDS_1_J_6" speaker="jake">
+            "We couldn’t possibly refuse a request from an Elite Agent now could we?"
+        </message>
+        <message id="15" decision="none" voicetrack="RILEY_BODYGUARDS_1_P_3" speaker="paulo">
+            "Hmm. Yeah that is true. Please ... be our guest."
+        </message>
+        <message id="16" decision="go-inside" voicetrack="RILEY_BODYGUARDS_1_R_7" speaker="riley">
+            "Actually you know what? ... I think I'll come back tomorrow."
+        </message>
+        <message id="17" decision="none" voicetrack="RILEY_BODYGUARDS_1_R_8" speaker="riley">
+            "If you see him, tell him I need to speak to him urgently."
+        </message>
+        <message id="18" decision="none" voicetrack="RILEY_BODYGUARDS_1_R_9" speaker="riley">
+            "It’s regarding some ... financial matters."
+        </message>
+    </conversation>
+</data>

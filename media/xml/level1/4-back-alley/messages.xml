@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+    <type>
+        <thoughts>
+            <message id="yes" voicetrack="Level_1_Riley_52">Yes</message>
+            <message id="no" voicetrack="Level_1_Riley_51">No</message>
+            <message id="get_closer" voicetrack="Level_1_Riley_201">I need to get closer</message>
+            <message id="unlocked_fence" voicetrack="Level_1_Riley_162">I unlocked the fence with the lock pick
+            </message>
+            <message id="cant_do_that" voicetrack="Level_1_Riley_77">I can't do that</message>
+            <message id="cant_leave" voicetrack="Level_1_Riley_42">I can't leave yet</message>
+            <message id="window_shut_tight" voicetrack="Level_1_Riley_243">I can't get through. The window is shut tight
+            </message>
+            <message id="make_too_much_noise" voicetrack="Level_1_Riley_244">They would hear me breaking in</message>
+            <message id="cant_with_bare_hands" voicetrack="Level_1_Riley_245">I'm going to need more than my bare hands to open that window
+            </message>
+            <message id="look_for_more_items" voicetrack="Level_1_Riley_246">I should look around for anything useful before I leave
+            </message>
+        </thoughts>
+        <props>
+            <object name="metal_fence_door">
+                <interact>
+                    <examine>
+                        <state id="x">
+                            <message id="cant_leave" voicetrack="Level_1_Riley_42">I can't leave yet</message>
+                        </state>
+                    </examine>
+                </interact>
+            </object>
+            <object name="trash-can">
+                <interact>
+                    <examine>
+                        <state id="x">
+                            <message id="1" voicetrack="Level_1_Riley_198">Nothing Interesting</message>
+                        </state>
+                    </examine>
+                </interact>
+            </object>
+            <object name="bricks">
+                <interact>
+                    <examine>
+                        <state id="x">
+                            <message id="1" voicetrack="Level_1_Riley_199">Just some bricks</message>
+                        </state>
+                    </examine>
+                </interact>
+            </object>
+            <object name="frame-1">
+                <interact>
+                    <examine>
+                        <state id="x">
+                            <message id="1" voicetrack="Level_1_Riley_208">Some metal frame</message>
+                        </state>
+                    </examine>
+                </interact>
+            </object>
+            <object name="frame-2">
+                <interact>
+                    <examine>
+                        <state id="x">
+                            <message id="1" voicetrack="Level_1_Riley_208">Some metal frame</message>
+                        </state>
+                    </examine>
+                </interact>
+            </object>
+            <object name="fan">
+                <interact>
+                    <examine>
+                        <state id="x">
+                            <message id="1" voicetrack="Level_1_Riley_209">Some old looking Fan extractor</message>
+                        </state>
+                    </examine>
+                </interact>
+            </object>
+            <object name="fan-panel">
+                <interact>
+                    <examine>
+                        <state id="x">
+                            <message id="1" voicetrack="Level_1_Riley_210">Switches the fan on and off</message>
+                            <message id="1" voicetrack="Level_1_Riley_211">Needs a key</message>
+                        </state>
+                    </examine>
+                </interact>
+            </object>
+            <object name="ladder">
+                <interact>
+                    <examine>
+                        <state id="x">
+                            <message id="1" voicetrack="Level_1_Riley_212">This looks like my way up</message>
+                        </state>
+                    </examine>
+                </interact>
+            </object>
+            <object name="roof-left">
+                <interact>
+                    <examine>
+                        <state id="x">
+                            <message id="1" voicetrack="Level_1_Riley_213">It looks unstable</message>
+                        </state>
+                    </examine>
+                </interact>
+            </object>
+            <object name="roof-right">
+                <interact>
+                    <examine>
+                        <state id="x">
+                            <message id="1" voicetrack="Level_1_Riley_213">It looks unstable</message>
+                        </state>
+                    </examine>
+                </interact>
+            </object>
+            <object name="window">
+                <interact>
+                    <examine>
+                        <state id="x">
+                            <message id="1" voicetrack="Level_1_Riley_214">This is my way in</message>
+                            <message id="2" voicetrack="Level_1_Riley_215">Not ideal, but it will have to do</message>
+                        </state>
+                    </examine>
+                </interact>
+            </object>
+
+            <object name="metal-fence-big">
+                <interact>
+                    <examine>
+                        <state id="x">
+                            <message id="1" voicetrack="Level_1_Riley_216">Fence is designed to keep people out</message>
+                            <message id="2" voicetrack="Level_1_Riley_217">Not very effective</message>
+                        </state>
+                    </examine>
+                </interact>
+            </object>
+            <object name="toolbox">
+                <interact>
+                    <examine>
+                        <state id="x">
+                            <message id="1" voicetrack="Level_1_Riley_218">Someone's left their toolbox behind</message>
+                        </state>
+                    </examine>
+                </interact>
+            </object>
+            <object name="rubbish">
+                <interact>
+                    <examine>
+                        <state id="x">
+                            <message id="1" voicetrack="Level_1_Riley_219">It's just some junk</message>
+                        </state>
+                    </examine>
+                </interact>
+            </object>
+        </props>
+        <items>
+            <object name="fan-keys">
+                <interact>
+                    <examine>
+                        <state id="x">
+                            <message id="1" voicetrack="Level_1_Riley_221">A set of keys</message>
+                        </state>
+                    </examine>
+                </interact>
+            </object>
+            <object name="toolbox-key">
+                <interact>
+                    <examine>
+                        <state id="x">
+                            <message id="1" voicetrack="Level_1_Riley_222">A small key</message>
+                        </state>
+                    </examine>
+                </interact>
+            </object>
+            <object name="cable">
+                <interact>
+                    <examine>
+                        <state id="x">
+                            <message id="1" voicetrack="Level_1_Riley_223">Telephone cable, a few metres in length</message>
+                        </state>
+                    </examine>
+                </interact>
+            </object>
+            <object name="crowbar">
+                <interact>
+                    <examine>
+                        <state id="x">
+                            <message id="1" voicetrack="Level_1_Riley_224">This looks lethal</message>
+                        </state>
+                    </examine>
+                </interact>
+            </object>
+            <object name="digi_cuffs">
+                <interact>
+                    <examine>
+                        <state id="x">
+                            <message id="1" voicetrack="Level_1_Riley_155">Digital Handcuffs</message>
+                            <message id="2" voicetrack="Level_1_Riley_156">I need to fix these on Dawson to get my mission points
+                            </message>
+                        </state>
+                    </examine>
+                </interact>
+            </object>
+        </items>
+    </type>
+</data>

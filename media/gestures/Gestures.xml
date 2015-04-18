@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><!-- Created with TexturePacker http://www.codeandweb.com/texturepacker--><!-- $TexturePacker:SmartUpdate:575603f343524ace780d3300c1da4938:f7e8d2b5b8876fadafb4dd753662ec25:eb97b45964358218fe06b155844213b1$ -->
+<TextureAtlas imagePath="Gestures.png">
+    <SubTexture name="arrow" x="2" y="63" width="59" height="59"/>
+    <SubTexture name="bar-bg" x="2" y="2" width="399" height="59"/>
+    <SubTexture name="hold-border" x="63" y="63" width="50" height="50"/>
+    <SubTexture name="hold-expander" x="115" y="63" width="50" height="50"/>
+    <SubTexture name="slider" x="470" y="2" width="40" height="32"/>
+    <SubTexture name="swipe-bg" x="167" y="63" width="150" height="40"/>
+    <SubTexture name="swipe-border" x="319" y="63" width="149" height="39"/>
+</TextureAtlas>

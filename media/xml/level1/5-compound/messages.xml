@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+    <type>
+        <thoughts>
+            <message id="yes" voicetrack="Level_1_Riley_52">Yes.</message>
+            <message id="no" voicetrack="Level_1_Riley_51">No.</message>
+            <message id="get_closer" voicetrack="Level_1_Riley_201">I need to get closer.</message>
+            <message id="cant_do_that" voicetrack="Level_1_Riley_77">I can't do that.</message>
+            <message id="cant_leave" voicetrack="Level_1_Riley_42">I can't leave yet.</message>
+            <message id="cable_ankles" voicetrack="Level_1_Riley_187">I wrapped the cable around his ankles.</message>
+            <message id="tape_mouth" voicetrack="Level_1_Riley_188">I placed some tape over his mouth.</message>
+        </thoughts>
+        <props>
+            <object name="corkboard">
+                <interact>
+                    <examine>
+                        <state id="x">
+                            <message id="1" voicetrack="Level_1_Riley_198">Nothing interesting</message>
+                        </state>
+                    </examine>
+                </interact>
+            </object>
+            <object name="plastic-bag-1">
+                <interact>
+                    <examine>
+                        <state id="x">
+                            <message id="1" voicetrack="Level_1_Riley_225">Looks like he's packed his things</message>
+                        </state>
+                    </examine>
+                </interact>
+            </object>
+            <object name="door">
+                <interact>
+                    <examine>
+                        <state id="x">
+                            <message id="1" voicetrack="Level_1_Riley_226">Who knows where that leads out to</message>
+                        </state>
+                    </examine>
+                </interact>
+            </object>
+            <object name="cabinet">
+                <interact>
+                    <examine>
+                        <state id="x">
+                            <message id="1" voicetrack="Level_1_Riley_227">The cabinet's items seem to have been packed away in these boxes
+                            </message>
+                        </state>
+                    </examine>
+                </interact>
+            </object>
+            <object name="window">
+                <interact>
+                    <examine>
+                        <state id="x">
+                            <message id="1" voicetrack="Level_1_Riley_228">It's the window to the alley.</message>
+                            <message id="2" voicetrack="Level_1_Riley_229">I'll need to get Dawson out this way,</message>
+                            <message id="3" voicetrack="Level_1_Riley_230">... Somehow.</message>
+                        </state>
+                    </examine>
+                </interact>
+            </object>
+            <object name="chair">
+                <interact>
+                    <examine>
+                        <state id="x">
+                            <message id="1" voicetrack="Level_1_Riley_178">The desk is cluttered with paperwork, stationery and magazines</message>
+                            <message id="1" voicetrack="Level_1_Riley_179">It’s a cramped office space, no doubt about it</message>
+                        </state>
+                    </examine>
+                </interact>
+            </object>
+            <object name="mirror">
+                <interact>
+                    <examine>
+                        <state id="x">
+                            <message id="1" voicetrack="Level_1_Riley_231">Either someone got mad, or has a butt ugly face.
+                            </message>
+                        </state>
+                    </examine>
+                </interact>
+            </object>
+            <object name="sofa">
+                <interact>
+                    <examine>
+                        <state id="x">
+                            <message id="1" voicetrack="Level_1_Riley_232">The sofa was ripped and in a sorry state.</message>
+                        </state>
+                    </examine>
+                </interact>
+            </object>
+            <object name="incognito-mask">
+                <interact>
+                    <examine>
+                        <state id="x">
+                            <message id="1" voicetrack="Level_1_Riley_233">Well, he's definitely a member of the Incognitos.</message>
+                            <message id="2" voicetrack="Level_1_Riley_234">Until today of course.</message>
+                        </state>
+                    </examine>
+                </interact>
+            </object>
+            <object name="backpack">
+                <interact>
+                    <examine>
+                        <state id="x">
+                            <message id="1" voicetrack="Level_1_Riley_235">Dawson's left his backpack in here.</message>
+                            <message id="2" voicetrack="Level_1_Riley_237">Couldn't of timed it better.</message>
+                        </state>
+                    </examine>
+                </interact>
+            </object>
+            <object name="stationary">
+                <interact>
+                    <examine>
+                        <state id="x">
+                            <message id="1" voicetrack="Level_1_Riley_238">He appears to use physical means of communication
+                            </message>
+                            <message id="2" voicetrack="Level_1_Riley_239">Less traceable on the network</message>
+                        </state>
+                    </examine>
+                </interact>
+            </object>
+        </props>
+        <items>
+            <object name="masking-tape">
+                <interact>
+                    <examine>
+                        <state id="x">
+                            <message id="1" voicetrack="Level_1_Riley_240">Masking tape, this could come in use.</message>
+                        </state>
+                    </examine>
+                </interact>
+            </object>
+        </items>
+        <characters>
+            <object name="dawson">
+                <interact>
+                    <examine>
+                        <state id="x">
+                            <message id="1" voicetrack="Level_1_Riley_241">It's Dawson, I need to get him out of here before it's too late.
+                            </message>
+                        </state>
+                    </examine>
+                </interact>
+            </object>
+        </characters>
+    </type>
+</data>

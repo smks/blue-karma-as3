@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+    <type>
+        <thoughts>
+            <message id="yes" voicetrack="Level_1_Riley_52">Yes</message>
+            <message id="no" voicetrack="Level_1_Riley_51">No</message>
+            <message id="correct_intersection" voicetrack="Level_1_Riley_76">
+                Need to make sure I am in the correct intersection, Alley 12
+            </message>
+            <message id="get_closer" voicetrack="Level_1_Riley_201">I need to get closer</message>
+            <message id="dont_mess_with_camera" voicetrack="Level_1_Riley_116">I don't want to mess around with the camera
+            </message>
+            <message id="look_for_compound" voicetrack="Level_1_Riley_109">Now to look for the compound.</message>
+            <message id="look_for_house" voicetrack="Level_1_Riley_119">I better get looking for this house</message>
+            <message id="coast_clear_look" voicetrack="Level_1_Riley_120">Coast seems clear let's go through and have a look
+            </message>
+            <message id="unlocked_fence" voicetrack="Level_1_Riley_162">I unlocked the fence with the lock pick
+            </message>
+            <message id="cant_do_that" voicetrack="Level_1_Riley_77">I can't do that</message>
+            <message id="rupert_is_watching" voicetrack="Level_1_Riley_247">The bearded guy is watching me like a hawk.
+            </message>
+        </thoughts>
+        <props>
+            <object name="road-sign">
+                <interact>
+                    <examine>
+                        <state id="x">
+                            <message id="1" voicetrack="Level_1_Riley_108">Baker Street, Looks like I'm on the right road
+                            </message>
+                        </state>
+                        <state id="1">
+                            <message id="1" voicetrack="Level_1_Riley_108">Baker Street, Looks like I'm on the right road
+                            </message>
+                            <message id="2" voicetrack="Level_1_Riley_109">Now to look for the compound.</message>
+                            <message id="3" voicetrack="Level_1_Riley_110">All I know is the house has 3 steps leading to the door.
+                            </message>
+                        </state>
+                    </examine>
+                </interact>
+            </object>
+            <object name="cctv-1">
+                <interact>
+                    <examine>
+                        <state id="x">
+                            <message id="1" voicetrack="Level_1_Riley_116">I don't want to mess around with the camera
+                            </message>
+                        </state>
+                    </examine>
+                </interact>
+            </object>
+            <object name="alley-1">
+                <interact>
+                    <examine>
+                        <state id="x">
+                            <message id="1" voicetrack="Level_1_Riley_103">It's an alleyway</message>
+                        </state>
+                    </examine>
+                </interact>
+            </object>
+            <object name="house-window">
+                <interact>
+                    <examine>
+                        <state id="x">
+                            <message id="1" voicetrack="Level_1_Riley_121">The window isn't transparent enough to see through.
+                            </message>
+                        </state>
+                    </examine>
+                </interact>
+            </object>
+            <object name="house-door">
+                <interact>
+                    <examine>
+                        <state id="x">
+                            <message id="1" voicetrack="Level_1_Riley_123">The door does not match the description
+                            </message>
+                            <message id="2" voicetrack="Level_1_Riley_248">Better keep looking.</message>
+                        </state>
+                    </examine>
+                </interact>
+            </object>
+            <object name="metal-fence">
+                <interact>
+                    <examine>
+                        <state id="x">
+                            <message id="1" voicetrack="Level_1_Riley_124">The alley is blocked off by a metal fence
+                            </message>
+                        </state>
+                    </examine>
+                </interact>
+            </object>
+            <object name="metal-gate">
+                <interact>
+                    <examine>
+                        <state id="x">
+                            <message id="1" voicetrack="Level_1_Riley_124">The alley is blocked off by a metal fence
+                            </message>
+                        </state>
+                    </examine>
+                </interact>
+            </object>
+            <object name="compound-door">
+                <interact>
+                    <examine>
+                        <state id="x">
+                            <message id="1" voicetrack="Level_1_Riley_249">It's the door to the compound.</message>
+                            <message id="1" voicetrack="Level_1_Riley_250">This looks like the place.</message>
+                        </state>
+                    </examine>
+                </interact>
+            </object>
+        </props>
+
+        <characters>
+            <object name="billy">
+                <interact>
+                    <examine>
+                        <state id="x">
+                            <message id="1" voicetrack="Level_1_Riley_134">A face like a slapped arse</message>
+                            <message id="2" voicetrack="Level_1_Riley_136">Parents must be so proud</message>
+                        </state>
+                    </examine>
+                </interact>
+            </object>
+            <object name="charlie">
+                <interact>
+                    <examine>
+                        <state id="x">
+                            <message id="1" voicetrack="Level_1_Riley_138">Don't they look like a perfect bunch?</message>
+                            <message id="2" voicetrack="Level_1_Riley_135">No doubt he is out to cause trouble</message>
+                        </state>
+                    </examine>
+                </interact>
+            </object>
+            <object name="danny">
+                <interact>
+                    <examine>
+                        <state id="x">
+                            <message id="1" voicetrack="Level_1_Riley_141">Making the locals feel very comfortable I'm sure
+                            </message>
+                        </state>
+                    </examine>
+                </interact>
+            </object>
+            <object name="jacob">
+                <interact>
+                    <examine>
+                        <state id="x">
+                            <message id="1" voicetrack="Level_1_Riley_143">A stocky guy in a tight long sleeve top,
+                            </message>
+                            <message id="2" voicetrack="Level_1_Riley_144">and a brown armless waistcoat</message>
+                            <message id="3" voicetrack="Level_1_Riley_145">He's chewing on a toothpick</message>
+                        </state>
+                    </examine>
+                </interact>
+            </object>
+            <object name="pablo">
+                <interact>
+                    <examine>
+                        <state id="x">
+                            <message id="1" voicetrack="Level_1_Riley_146">A long haired stocky guy seated on the steps
+                            </message>
+                            <message id="2" voicetrack="Level_1_Riley_147">He looks lethargic</message>
+                        </state>
+                    </examine>
+                </interact>
+            </object>
+            <object name="graham">
+                <interact>
+                    <examine>
+                        <state id="x">
+                            <message id="1" voicetrack="Level_1_Riley_131">It's hard not to notice the strong smell of cheap wine.
+                            </message>
+                        </state>
+                    </examine>
+                </interact>
+            </object>
+            <object name="roger">
+                <interact>
+                    <examine>
+                        <state id="x">
+                            <message id="1" voicetrack="Level_1_Riley_251">Although he looks tired,</message>
+                            <message id="1" voicetrack="Level_1_Riley_252">his eyes are fixed on that metal fence.</message>
+                        </state>
+                    </examine>
+                </interact>
+            </object>
+        </characters>
+        <items>
+            <object name="lock_pick">
+                <interact>
+                    <examine>
+                        <state id="x">
+                            <message id="1" voicetrack="Level_1_Riley_152">It's a lockpick</message>
+                        </state>
+                    </examine>
+                </interact>
+            </object>
+            <object name="digi_cuffs">
+                <interact>
+                    <examine>
+                        <state id="x">
+                            <message id="1" voicetrack="Level_1_Riley_155">Digital Handcuffs</message>
+                            <message id="2" voicetrack="Level_1_Riley_156">I need to fix these on Dawson to get my mission points
+                            </message>
+                        </state>
+                    </examine>
+                </interact>
+            </object>
+        </items>
+    </type>
+</data>

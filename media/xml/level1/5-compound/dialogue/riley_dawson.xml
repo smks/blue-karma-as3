@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+    <conversation id="riley_dawson_1" from="riley" to="dawson">
+        <message id="1" voicetrack="RILEY_DAWSON_1_R_1" speaker="riley">
+            "I, Riley W. Marshall, sentence you, Mr. Alex Richard Dawson, to The Camp for government treason and conspiracy."
+        </message>
+        <message id="2" voicetrack="RILEY_DAWSON_1_D_1" speaker="dawson">
+            "Argh. Screw you."
+        </message>
+        <message id="3" voicetrack="RILEY_DAWSON_1_R_2" speaker="riley">
+            "Five thousand points well earned, don't you think?"
+        </message>
+        <message id="4" voicetrack="RILEY_DAWSON_1_D_2" speaker="dawson">
+            (sigh)
+        </message>
+    </conversation>
+</data>

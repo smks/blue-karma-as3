@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+    <conversation id="riley_albert_2" from="riley" to="albert">
+        <message id="1" voicetrack="RILEY_ALBERT_2_A_5" speaker="albert">
+            "What?"
+        </message>
+        <message id="2" voicetrack="RILEY_ALBERT_2_R_1" speaker="riley">
+            "Albert, I'm going to ease the target out the window."
+        </message>
+        <message id="3" voicetrack="RILEY_ALBERT_2_R_2" speaker="riley">
+            "I'm between Alley 12, in the target's house."
+        </message>
+        <message id="4" voicetrack="RILEY_ALBERT_2_A_6" speaker="albert">
+            "Don't drop him."
+        </message>
+        <message id="5" voicetrack="RILEY_ALBERT_2_R_3" speaker="riley">
+            "Got it, (grunt), Okay he's now descending."
+        </message>
+        <message id="6" voicetrack="RILEY_ALBERT_2_R_4" speaker="riley">
+            "Be ready to collect him."
+        </message>
+    </conversation>
+</data>

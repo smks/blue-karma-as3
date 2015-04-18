@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+    <type>
+        <none>
+            <message>I don't know what you mean?</message>
+        </none>
+        <thoughts>
+            <message id="yes" voicetrack="Level_1_Riley_52">Yes.</message>
+            <message id="no" voicetrack="Level_1_Riley_51">No.</message>
+            <message id="doubt_that" voicetrack="Level_1_Riley_54">I doubt that.</message>
+            <message id="cant_do_that" voicetrack="Level_1_Riley_77">I can't do that.</message>
+            <message id="get_my_suit" voicetrack="Level_1_Riley_44">Right, now I need my suit.</message>
+            <message id="cant_leave" voicetrack="Level_1_Riley_42">I can't leave yet.</message>
+            <message id="out_of_pjs" voicetrack="Level_1_Riley_83">I have to get out of my pyjamas.</message>
+            <message id="wash_pjs" voicetrack="Level_1_Riley_84">My pyjama's need to be washed.</message>
+            <message id="pjs_in_basket" voicetrack="Level_1_Riley_85">I placed the pyjama's in the washing basket.
+            </message>
+            <message id="picked_up_dog_food" voicetrack="Level_1_Riley_68">I picked up the dog food.</message>
+            <message id="placed_dog_food" voicetrack="Level_1_Riley_90">I placed the dog food in the bowl.</message>
+            <message id="better_go" voicetrack="Level_1_Riley_43">I better get going.</message>
+            <message id="meet_albert" voicetrack="Level_1_Riley_57">I need to meet Albert.</message>
+            <message id="get_closer" voicetrack="Level_1_Riley_201">I need to get closer.</message>
+            <message id="plant_watered" voicetrack="Level_1_Riley_20">The plant is used to purify the air.</message>
+            <message id="fill_the_glass" voicetrack="Level_1_Riley_206">I filled the glass.</message>
+        </thoughts>
+        <props>
+            <object name="kitchen_window">
+                <interact>
+                    <examine>
+                        <message id="1" voicetrack="Level_1_Riley_57">A view of New Vale.</message>
+                        <message id="2" voicetrack="Level_1_Riley_202">It sure is something.</message>
+                    </examine>
+                    <chat>
+                        <message id="1" voicetrack="riley_no.mp3">No</message>
+                    </chat>
+                    <action>
+                        <message id="1" voicetrack="">I actioned the item</message>
+                    </action>
+                </interact>
+            </object>
+            <object name="smart_window">
+                <interact>
+                    <examine>
+                        <message id="1" voicetrack="Level_1_Riley_57">A view of New Vale</message>
+                        <message id="2" voicetrack="Level_1_Riley_202">It sure is something</message>
+                    </examine>
+                </interact>
+            </object>
+            <object name="kitchen_light_cupboard_1">
+                <interact>
+                    <examine>
+                        <message id="1" voicetrack="Level_1_Riley_29">One of my kitchen cupboards</message>
+                    </examine>
+                </interact>
+            </object>
+            <object name="kitchen_light_cupboard_2">
+                <interact>
+                    <examine>
+                        <message id="1" voicetrack="Level_1_Riley_29">One of my kitchen cupboards.</message>
+                    </examine>
+                </interact>
+            </object>
+            <object name="kitchen_light_cupboard_3">
+                <interact>
+                    <examine>
+                        <message id="1" voicetrack="Level_1_Riley_29">One of my kitchen cupboards.</message>
+                    </examine>
+                </interact>
+            </object>
+            <object name="kitchen_dark_cupboard_1">
+                <interact>
+                    <examine>
+                        <message id="1" voicetrack="Level_1_Riley_29">One of my kitchen cupboards.</message>
+                    </examine>
+                </interact>
+            </object>
+            <object name="kitchen_dark_cupboard_2">
+                <interact>
+                    <examine>
+                        <message id="1" voicetrack="Level_1_Riley_29">One of my kitchen cupboards.</message>
+                    </examine>
+                </interact>
+            </object>
+            <object name="kitchen_dark_cupboard_3">
+                <interact>
+                    <examine>
+                        <message id="1" voicetrack="Level_1_Riley_29">One of my kitchen cupboards.</message>
+                    </examine>
+                </interact>
+            </object>
+            <object name="kitchen_dark_cupboard_4">
+                <interact>
+                    <examine>
+                        <message id="1" voicetrack="Level_1_Riley_29">One of my kitchen cupboards.</message>
+                    </examine>
+                </interact>
+            </object>
+            <object name="kitchen_sink">
+                <interact>
+                    <examine>
+                        <message id="1" voicetrack="Level_1_Riley_30">I'm quite thirsty</message>
+                    </examine>
+                </interact>
+            </object>
+            <object name="kitchen_microwave">
+                <interact>
+                    <examine>
+                        <message id="1" voicetrack="Level_1_Riley_28">I don't use the microwave that often</message>
+                    </examine>
+                </interact>
+            </object>
+            <object name="kitchen_convector">
+                <interact>
+                    <examine>
+                        <message id="1" voicetrack="Level_1_Riley_31">
+                            The Extractor hood, removes odours.
+                        </message>
+                    </examine>
+                </interact>
+            </object>
+            <object name="kitchen_cooker">
+                <interact>
+                    <examine>
+                        <message id="1" voicetrack="Level_1_Riley_27">
+                            I much prefer gas to electric stoves.
+                        </message>
+                    </examine>
+                </interact>
+            </object>
+            <object name="kitchen_door">
+                <interact>
+                    <examine>
+                        <message id="1" voicetrack="Level_1_Riley_198">Nothing Interesting</message>
+                    </examine>
+                </interact>
+            </object>
+            <object name="kitchen_bin_bag">
+                <interact>
+                    <examine>
+                        <message id="1" voicetrack="Level_1_Riley_26">A new fresh bin was added.</message>
+                    </examine>
+                </interact>
+            </object>
+            <object name="living_room_curtains">
+                <interact>
+                    <examine>
+                        <message id="1" voicetrack="Level_1_Riley_33">
+                            Thermal insulated blackout curtains.
+                        </message>
+                    </examine>
+                    <chat>
+                        <message id="1" voicetrack="riley_no.mp3">No</message>
+                    </chat>
+                    <action>
+                        <message id="1" voicetrack="">I actioned the item</message>
+                    </action>
+                </interact>
+            </object>
+            <object name="living_room_tv">
+                <interact>
+                    <examine>
+                        <message id="1" voicetrack="Level_1_Riley_39">
+                            My Smart TV. This is where I do my web research.
+                        </message>
+                    </examine>
+                    <chat>
+                        <message id="1" voicetrack="riley_no.mp3">No</message>
+                    </chat>
+                    <action>
+                        <message id="1" voicetrack="">I actioned the item</message>
+                    </action>
+                </interact>
+            </object>
+            <object name="living_room_tv_cabinet">
+                <interact>
+                    <examine>
+                        <message id="1" voicetrack="Level_1_Riley_40">A television cabinet.</message>
+                    </examine>
+                </interact>
+            </object>
+            <object name="living_room_rug">
+                <interact>
+                    <examine>
+                        <message id="1" voicetrack="Level_1_Riley_36">It's a Handmade cosy wool rug.</message>
+                    </examine>
+                </interact>
+            </object>
+            <object name="living_room_sofa">
+                <interact>
+                    <examine>
+                        <message id="1" voicetrack="Level_1_Riley_37">My leather sofa.</message>
+                    </examine>
+                </interact>
+            </object>
+            <object name="living_room_speaker_right">
+                <interact>
+                    <examine>
+                        <message id="1" voicetrack="Level_1_Riley_38">
+                            The sound on those things, great detail and clarity.
+                        </message>
+                    </examine>
+                </interact>
+            </object>
+            <object name="living_room_welcome_matt">
+                <interact>
+                    <examine>
+                        <message id="1" voicetrack="Level_1_Riley_41">Welcome matt to the front door.</message>
+                    </examine>
+                </interact>
+            </object>
+            <object name="living_room_coffee_table">
+                <interact>
+                    <examine>
+                        <message id="1" voicetrack="Level_1_Riley_32">A contemporary coffee table.</message>
+                    </examine>
+                </interact>
+            </object>
+            <object name="living_room_photo">
+                <interact>
+                    <examine>
+                        <message id="1" voicetrack="Level_1_Riley_35">A photo Carmen drew for me...</message>
+                        <message id="2" voicetrack="Level_1_Riley_35a">Could never throw it away.</message>
+                    </examine>
+                </interact>
+            </object>
+            <object name="living_room_dog_bed">
+                <interact>
+                    <examine>
+                        <message id="1" voicetrack="Level_1_Riley_47">
+                            Crunchy's bed. He looks so comfy.
+                        </message>
+                    </examine>
+                </interact>
+            </object>
+            <object name="dog_crunch">
+                <interact>
+                    <examine>
+                        <message id="1" voicetrack="Level_1_Riley_82">I need to feed Crunch before I go.</message>
+                    </examine>
+                    <chat>
+                        <message id="1" voicetrack="Level_1_Riley_46">"Hey Crunch, how you doing boy?"</message>
+                        <message id="2" voicetrack="Level_1_Crunch_Bark">(Bark)</message>
+                    </chat>
+                    <action>
+                        <message id="1" voicetrack="">I actioned the item</message>
+                    </action>
+                </interact>
+            </object>
+            <object name="bed">
+                <interact>
+                    <examine>
+                        <message id="1" voicetrack="Level_1_Riley_11">
+                            My bed, I definitely need a new mattress.
+                        </message>
+                    </examine>
+                </interact>
+            </object>
+            <object name="bedroom_window">
+                <interact>
+                    <examine>
+                        <message id="1" voicetrack="Level_1_Riley_81">The blinds are closed.</message>
+                    </examine>
+                </interact>
+            </object>
+            <object name="light_switch_1">
+                <interact>
+                    <examine>
+                        <message id="1" voicetrack="Level_1_Riley_18">The light switch to my bedroom.</message>
+                    </examine>
+                </interact>
+            </object>
+            <object name="light_switch_2">
+                <interact>
+                    <examine>
+                        <message id="1" voicetrack="Level_1_Riley_18">The light switch to my bedroom.</message>
+                    </examine>
+                </interact>
+            </object>
+            <object name="plug_socket">
+                <interact>
+                    <examine>
+                        <message id="1" voicetrack="Level_1_Riley_13">It's a plug socket.</message>
+                    </examine>
+                </interact>
+            </object>
+            <object name="bedside_cabinet">
+                <interact>
+                    <examine>
+                        <message id="1" voicetrack="Level_1_Riley_15">My bedside cabinet.</message>
+                    </examine>
+                </interact>
+            </object>
+            <object name="bedroom_lamp">
+                <interact>
+                    <examine>
+                        <message id="1" voicetrack="Level_1_Riley_12">
+                            My bedroom lamp, I have to remember to buy some more light bulbs.
+                        </message>
+                    </examine>
+                </interact>
+            </object>
+            <object name="bedroom_chest">
+                <interact>
+                    <examine>
+                        <message id="1" voicetrack="Level_1_Riley_16">
+                            My bedroom chest, I store my clothing in here.
+                        </message>
+                    </examine>
+                </interact>
+            </object>
+            <object name="plant_pot">
+                <interact>
+                    <examine>
+                        <message id="1" voicetrack="Level_1_Riley_19">The plant could do with some water.</message>
+                    </examine>
+                </interact>
+            </object>
+            <object name="bedroom_door">
+                <interact>
+                    <examine>
+                        <message id="1" voicetrack="Level_1_Riley_21">The door to my en-suite.</message>
+                    </examine>
+                </interact>
+            </object>
+            <object name="canvas_photo">
+                <interact>
+                    <examine>
+                        <message id="1" voicetrack="Level_1_Riley_17">An old canvas photo I picked up at a stall in the mid region.
+                        </message>
+                        <message id="2" voicetrack="Level_1_Riley_17a">The guy was talented.</message>
+                    </examine>
+                </interact>
+            </object>
+            <object name="sax_photo">
+                <interact>
+                    <examine>
+                        <message id="1" voicetrack="Level_1_Riley_79">The Jazz club's gift to me for being such a great customer.
+                        </message>
+                    </examine>
+                </interact>
+            </object>
+            <object name="washing_basket">
+                <interact>
+                    <examine>
+                        <message id="1" voicetrack="Level_1_Riley_14">My washing basket, always full.</message>
+                    </examine>
+                </interact>
+            </object>
+        </props>
+        <items>
+            <object name="bedroom_pyjamas">
+                <interact>
+                    <examine>
+                        <message id="1" voicetrack="Level_1_Riley_84">My pyjama's need to be washed.</message>
+                    </examine>
+                </interact>
+            </object>
+            <object name="chip">
+                <interact>
+                    <examine>
+                        <message id="1" voicetrack="Level_1_Riley_205">This is my microchip.</message>
+                        <message id="2" voicetrack="Level_1_Riley_206">It's implanted in my arm.</message>
+                        <message id="3" voicetrack="Level_1_Riley_207">I can use it for authentication around the city.
+                        </message>
+                    </examine>
+                </interact>
+            </object>
+            <object name="work_clothing">
+                <interact>
+                    <examine>
+                        <message id="1" voicetrack="Level_1_Riley_10">It's my Elite Agent suit.</message>
+                    </examine>
+                </interact>
+            </object>
+            <object name="kitchen_glass">
+                <interact>
+                    <examine>
+                        <message id="1" voicetrack="Level_1_Riley_70">It's a glass.</message>
+                    </examine>
+                </interact>
+            </object>
+            <object name="kitchen_plate">
+                <interact>
+                    <examine>
+                        <message id="1" voicetrack="Level_1_Riley_93">A plate for my food.</message>
+                    </examine>
+                </interact>
+            </object>
+            <object name="dog_food">
+                <interact>
+                    <examine>
+                        <message id="1" voicetrack="Level_1_Riley_69">It's Crunch's dog food.</message>
+                    </examine>
+                </interact>
+            </object>
+            <object name="dog_bowl">
+                <interact>
+                    <examine>
+                        <message id="1" voicetrack="Level_1_Riley_69a">It's Crunch's dog bowl.</message>
+                    </examine>
+                </interact>
+            </object>
+            <object name="kitchen_bowl">
+                <interact>
+                    <examine>
+                        <message id="1" voicetrack="Level_1_Riley_91">One of my food bowls.</message>
+                    </examine>
+                </interact>
+            </object>
+            <object name="lock_pick">
+                <interact>
+                    <examine>
+                        <message id="1" voicetrack="Level_1_Riley_152">It's a lockpick.</message>
+                    </examine>
+                </interact>
+            </object>
+        </items>
+    </type>
+</data>

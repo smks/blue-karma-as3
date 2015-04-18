@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+    <conversation id="riley_tyrone_1" from="riley" to="tyrone">
+        <message id="1" voicetrack="RILEY_TYRONE_1_R_1" speaker="riley">
+            (Yawn) "Hello?"
+        </message>
+        <message id="2" voicetrack="RILEY_TYRONE_1_T_1" speaker="tyrone">
+            "Good Evening, Riley."
+        </message>
+        <message id="3" voicetrack="RILEY_TYRONE_1_R_2" speaker="riley">
+            "Hey uncle, you've kinda caught me at a bad time."
+        </message>
+        <message id="4" voicetrack="RILEY_TYRONE_1_R_3" speaker="riley">
+            "Was trying to get some shut-eye. Has something come up?"
+        </message>
+        <message id="5" voicetrack="RILEY_TYRONE_1_T_2" speaker="tyrone">
+            "You know I don’t like to bother you on your time off."
+        </message>
+        <message id="6" voicetrack="RILEY_TYRONE_1_T_3" speaker="tyrone">
+            "Especially with all the great work you do."
+        </message>
+        <message id="7" voicetrack="RILEY_TYRONE_1_T_4" speaker="tyrone">
+            "But you’re the only one I can rely on to help me tonight."
+        </message>
+        <message id="8" voicetrack="RILEY_TYRONE_1_R_4" speaker="riley">
+            "Well, you know you can always rely on me uncle."
+        </message>
+        <message id="9" voicetrack="RILEY_TYRONE_1_R_5" speaker="riley">
+            "How can I be of assistance?"
+        </message>
+        <message id="10" voicetrack="RILEY_TYRONE_1_T_5" speaker="tyrone">
+            "You’ll be glad to hear we’ve tracked down another one."
+        </message>
+        <message id="11" voicetrack="RILEY_TYRONE_1_R_5a" speaker="riley">
+            "Lemme guess, an Incognito member?"
+        </message>
+        <message id="12" voicetrack="RILEY_TYRONE_1_T_6" speaker="tyrone">
+            "You’re god damn right. Mr. Alex Richard Dawson."
+        </message>
+        <message id="13" voicetrack="RILEY_TYRONE_1_T_7" speaker="tyrone">
+            "We managed to get hold of some group conversations he’s been having."
+        </message>
+        <message id="14" voicetrack="RILEY_TYRONE_1_T_8" speaker="tyrone">
+            "The fool is responsible for some planned protests and government break ins."
+        </message>
+        <message id="15" voicetrack="RILEY_TYRONE_1_T_9" speaker="tyrone">
+            "They should know by now that anonymity is becoming a thing of the past."
+        </message>
+        <message id="16" voicetrack="RILEY_TYRONE_1_R_7" speaker="riley">
+            "So what’s the plan?"
+        </message>
+        <message id="17" voicetrack="RILEY_TYRONE_1_T_10" speaker="tyrone">
+            "Albert is on his way to pick you up as we speak."
+        </message>
+        <message id="18" voicetrack="RILEY_TYRONE_1_T_11" speaker="tyrone">
+            "He will take you to the southern region."
+        </message>
+        <message id="19" voicetrack="RILEY_TYRONE_1_R_6" speaker="riley">
+            "Slums ... why doesn’t that surprise me."
+        </message>
+        <message id="20" voicetrack="RILEY_TYRONE_1_T_12" speaker="tyrone">
+            "I’ve sent over all the details you need."
+        </message>
+        <message id="21" voicetrack="RILEY_TYRONE_1_T_13" speaker="tyrone">
+            "He plans to leave in the morning, so catch him by surprise tonight."
+        </message>
+        <message id="22" voicetrack="RILEY_TYRONE_1_R_8" speaker="riley">
+            "A surprise he will get. Leave it to me uncle, I’m on it."
+        </message>
+        <message id="23" voicetrack="RILEY_TYRONE_1_T_14" speaker="tyrone">
+            "That’s my boy, always someone I can rely on."
+        </message>
+        <message id="24" voicetrack="RILEY_TYRONE_1_T_15" speaker="tyrone">
+            "I’m going to make the reward something to remember, you can count on that."
+        </message>
+        <message id="25" voicetrack="RILEY_TYRONE_1_PHONE_END">
+            [Beep]
+        </message>
+    </conversation>
+</data>

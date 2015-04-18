@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:e157038b56dd22dedb140447d5a94c0e:94995c7f32d2068944a646f6e963495b:2a4705554e3815d7a834dfefdbb0b244$ -->
+<TextureAtlas imagePath="Mail.png">
+    <SubTexture name="mail-button" x="2" y="772" width="102" height="113"/>
+    <SubTexture name="mission-statement-dawson" x="2" y="2" width="1024" height="768"/>
+</TextureAtlas>
