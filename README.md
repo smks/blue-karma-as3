@@ -1,6 +1,6 @@
 # Blue Karma by Shaun Stone
 
-![Blue Karma](http://smks.co.uk/wp-content/uploads/2013/12/bluekarma.jpg)
+![Blue Karma](http://smks.co.uk/wp-content/uploads/2015/04/Banner1.jpg)
 	
 A Point and Click adventure game based on the novel: Blue Karma (Release: late 2015)
 
